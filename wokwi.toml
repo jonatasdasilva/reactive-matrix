@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/reactive-matrix.uf2"
+elf = "build/reactive-matrix.elf"
